@@ -1,5 +1,17 @@
 # web36-practice-JS-problems
 
+## Recommended VScode extensions
+- Quokka.js https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode
+- 
+
+## Downloads
+- node https://nodejs.org/en/ 
+  To see if Node is installed, open the Windows Command Prompt, Powershell or a similar command line tool, on mac OS use terminal and type node -v . This should print the version number so you'll see something like this v0. 10.35 
+
+- 
+
+***
+
 ## Unit 1 Week 2
 - Absolute Values Sum Minization
 - Add
